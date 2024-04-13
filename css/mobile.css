@@ -1,0 +1,37 @@
+@media  only screen and  (max-width: 575.98px) {
+    /* navbar */
+    #nav-bar .c  {
+        display: block;
+    }
+    /* About */
+    #about .col-md-6 {
+        width: 100%; 
+    }
+    
+    /* Job-Info */
+    .col-12{
+        width: 100%;
+    }
+    #job-info .six-boxes{
+        padding: 0;
+        height: auto;
+    }
+
+    /* Prize */
+    .prizes{
+        display: inline-block;
+        border-bottom: solid #D7C291 3px;
+    }
+    .prize-items{
+        border-bottom: solid #D7C291 3px;
+        margin-top: 10px;
+    }
+
+    /* Project */
+    .projects{
+        display: inline-block;
+    }
+    .projects-items{
+        width: 100%;
+    }
+}
